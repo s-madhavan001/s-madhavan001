@@ -198,18 +198,14 @@ Passionate **AI Developer** with **2.5+ years of experience** specializing in **
 - 🔄 **Adaptability & Continuous Learning**
 - 🔍 **Critical Thinking & Architectural Planning**
 
----
+<!-- ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-madhavan001&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&bg_color=0f172a" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-madhavan001&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-madhavan001&theme=tokyonight&hide_border=true&stroke=0f172a&background=0f172a&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s-madhavan001&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&bg_color=0f172a" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s-madhavan001&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="165" alt="Top Languages" />
+</div> -->
 
 ---
 
